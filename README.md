@@ -1,4 +1,4 @@
-MongoDB-Relationship-Patterns/
+MongoDB-Relationship-Patterns
 │── models/
 │   ├── user.js        // 🟢 One-to-Few (Embedded Documents)
 │   ├── order.js       // 🟡 One-to-Many (>1000) with ObjectId References
